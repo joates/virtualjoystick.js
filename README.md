@@ -1,3 +1,9 @@
+> forked from original code by Jerome Etienne.
+> https://github.com/jeromeetienne/virtualjoystick.js
+>
+> inspired by an original implementation by Seb Lee-Delisle.
+> http://sebleedelisle.com/2011/04/multi-touch-game-controller-in-javascripthtml5-for-ipad/
+
 a virtual joystick for touchscreen.
 
 * ```opts.container``` is the
